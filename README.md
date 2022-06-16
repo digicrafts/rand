@@ -1,0 +1,1 @@
+Additional function for rand
